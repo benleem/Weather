@@ -1,0 +1,22 @@
+.weather-container{
+    background-color: grey;
+    align-items: center;
+    text-align: center;
+}
+
+.weather{
+    font-size: 20px;
+    margin: 0;
+}
+
+.temp{
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.input{
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+}
